@@ -1,5 +1,5 @@
 # Analyzing trends in e-commerce in the United Kingdom, 2018-2019
-## Sara Hansen
+## Sara E. Hansen, hanse2s
 ## Modified October 9, 2023
 
 library(tidyverse)
@@ -14,8 +14,7 @@ options(dplyr.print_max = 1e9)
 
 # Let's get into it
 
-setwd("C:/Users/saras/Desktop/Data Projects/ECommerce")
-dat <- read.csv("Sales Transaction v.4a.csv", fileEncoding = "UTF-8-BOM")
+dat <- read.csv("data/Sales Transaction v.4a.csv", fileEncoding = "UTF-8-BOM")
 
 str(dat)
 
