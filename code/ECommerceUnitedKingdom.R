@@ -1,5 +1,5 @@
 # Analyzing trends in e-commerce in the United Kingdom, 2018-2019
-## Sara E. Hansen, hanse2s
+## Sara E. Hansen, SaraHansenData
 ## Modified October 9, 2023
 
 library(tidyverse)
